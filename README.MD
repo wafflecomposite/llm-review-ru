@@ -56,6 +56,7 @@
 - [30 Mar 2023, DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents, Curai](https://arxiv.org/pdf/2303.17071.pdf)
 - [30 Mar 2023, Language Models can Solve Computer Tasks](https://arxiv.org/pdf/2303.17491.pdf)
 - [2 Apr 2023, HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face, Microsoft](https://arxiv.org/pdf/2303.17580.pdf).
+- [6 Apr 2023, Instruction Tuning with GPT-4, Microsoft](https://arxiv.org/pdf/2304.03277.pdf).
 
 # Notes
 - Проекты - один экспериментальнее другого, и вместе с изучением сорцов у каждого, особенно в случае каких-то затыков, стоит проверять Issues, Pull requests и Discussions - как правило, любой вопрос там как минимум уже подняли.
