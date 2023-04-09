@@ -51,13 +51,16 @@
 - [20 Dec 2022, Self-Instruct: Aligning Language Model with Self Generated Instructions](https://arxiv.org/pdf/2212.10560.pdf)
 - [27 Feb 2023, LLaMA: Open and Efficient Foundation Language Models, Facebook](https://arxiv.org/pdf/2302.13971.pdf)
 - [9 Mar 2023, On the Risks of Stealing the Decoding Algorithms of Language Models](https://arxiv.org/pdf/2303.04729.pdf)
+- [22 Mar 2023, SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot](https://arxiv.org/pdf/2301.00774.pdf)
 - [24 Mar 2023, GPT-4 Technical Report, OpenAI](https://arxiv.org/pdf/2303.08774.pdf)
 - [27 Mar 2023, Sparks of Artificial General Intelligence: Early experiments with GPT-4, Microsoft](https://arxiv.org/pdf/2303.08774.pdf)
 - [29 Mar 2023, TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs, Microsoft](https://arxiv.org/pdf/2303.16434.pdf)
 - [30 Mar 2023, DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents, Curai](https://arxiv.org/pdf/2303.17071.pdf)
 - [30 Mar 2023, Language Models can Solve Computer Tasks](https://arxiv.org/pdf/2303.17491.pdf)
 - [2 Apr 2023, HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face, Microsoft](https://arxiv.org/pdf/2303.17580.pdf)
+- [3 Apr 2023, Neural Theory-of-Mind: On the Limits of Social Intelligence in Large LMs](https://arxiv.org/pdf/2210.13312.pdf)
 - [6 Apr 2023, Instruction Tuning with GPT-4, Microsoft](https://arxiv.org/pdf/2304.03277.pdf)
+- [6 Apr 2023, Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark](https://arxiv.org/pdf/2304.03279.pdf)
 
 # Notes
 - Проекты - один экспериментальнее другого, и вместе с изучением сорцов у каждого, особенно в случае каких-то затыков, стоит проверять Issues, Pull requests и Discussions - как правило, любой вопрос там как минимум уже подняли.
