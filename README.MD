@@ -12,7 +12,7 @@
 ## *[github.com/rokstrnisa/Robo-GPT](https://github.com/rokstrnisa/Robo-GPT)*
 - Автономный GPT-4 runner, примерный аналог Auto-GPT с более читабельной документацией
 
-## Нерелизнутое/наобещанное
+## *Нерелизнутое/наобещанное*
 - Безымянный GPT-4 coding assistant, полностью управляемый голосом. [Довольно ломовейшее видеодемо](https://mobile.twitter.com/mckaywrigley/status/1644034309253394433)
 - **ChaosGPT**: Модифицированная версия Auto-GPT, нацеленная на хаотический деструкшн. Лол. [Видео.](https://www.youtube.com/watch?v=g7YJIpkk7KM) Пока ничерта интересного не сделала, кроме странички в твиттере, но потенциально может быть первым интересным кейсом Rogue AI.
 
@@ -21,7 +21,7 @@
 ### [Онлайн-демо](https://huggingface.co/spaces/microsoft/HuggingGPT), хочет ключи [отсюда](https://platform.openai.com/account/api-keys) и [оттуда](https://huggingface.co/docs/hub/security-tokens). Пэйпер [тут](https://arxiv.org/pdf/2303.17580.pdf).
 - Он же HuggingGPT. Амбициозно названная "коллаборативная система", использующая ChatGPT в качестве контроллера, выполняющего таски, подбирая и используя наиболее подходящие LLM-модели с HuggingFace. 
 
-## Нерелизнутое/наобещанное
+## *Нерелизнутое/наобещанное*
 ### *MemoryGPT*
 - Какой-то разогрев [происходит в твиттуре](https://twitter.com/rikvk01/status/1645062075285135360) прямо пока я это пишу, надо слежить. Кода пока нет, ничего нет, есть Beta Tester Sign-up. Задача - ChatGPT с long-term memory. Тоже использует vector-based database, еще один повод поинтересоваться, как это работает, и почему это эффективно (ну или почему это скам.)
 
