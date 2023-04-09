@@ -38,6 +38,7 @@
 - [24 Mar 2023, Reflecting on Reflexion](https://nanothoughts.substack.com/p/reflecting-on-reflexion) - пост с кучей ссылок, довольно дотошно рассказывающий о том, как рефлексия (значительно) улучшает результаты GPT-4 (в бенчмарке [HumanEval](https://paperswithcode.com/dataset/humaneval)), и как её имплементировать.
 # Пэйперы
 - [25 Oct 2022, Large Language Models can self-improve, Google](https://arxiv.org/pdf/2210.11610.pdf)
+- [20 Dec 2022, Self-Instruct: Aligning Language Model with Self Generated Instructions](https://arxiv.org/pdf/2212.10560.pdf)
 - [27 Feb 2023, LLaMA: Open and Efficient Foundation Language Models, Facebook](https://arxiv.org/pdf/2302.13971.pdf)
 - [24 Mar 2023, GPT-4 Technical Report, OpenAI](https://arxiv.org/pdf/2303.08774.pdf)
 - [29 Mar 2023, TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs, Microsoft](https://arxiv.org/pdf/2303.16434.pdf)
