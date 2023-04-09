@@ -7,7 +7,7 @@
 - Хотят гонять и [другие LLM кроме OpenAI](https://github.com/Torantulino/Auto-GPT/issues/25), интересно в контексте использования локальных моделей вроде LLaMa
 
 ## *[github.com/pHaeusler/micro-agent](https://github.com/pHaeusler/micro-agent)*
-- Скромная по масштабам и потому довольно понятная реализация реализация агента, способного писать код и рефлексировать.
+- Скромная по масштабам и потому довольно понятная реализация агента, способного писать код и рефлексировать.
 
 ## *[github.com/rokstrnisa/Robo-GPT](https://github.com/rokstrnisa/Robo-GPT)*
 - Автономный GPT-4 runner, примерный аналог Auto-GPT с более читабельной документацией
