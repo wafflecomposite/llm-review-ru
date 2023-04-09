@@ -40,6 +40,7 @@
 - [24 Mar 2023, GPT-4 Technical Report, OpenAI](https://arxiv.org/pdf/2303.08774.pdf)
 - [29 Mar 2023, TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs, Microsoft](https://arxiv.org/pdf/2303.16434.pdf)
 - [30 Mar 2023, DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents, Curai](https://arxiv.org/pdf/2303.17071v1.pdf)
+- [30 Mar 2023, Language Models can Solve Computer Tasks](https://arxiv.org/pdf/2303.17491.pdf)
 
 # Notes
 - Проекты - один экспериментальнее другого, и вместе с изучением сорцов у каждого, особенно в случае каких-то затыков, стоит проверять Issues, Pull requests и Discussions - как правило, любой вопрос там как минимум уже подняли.
