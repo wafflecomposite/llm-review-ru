@@ -50,6 +50,7 @@
 - [25 Oct 2022, Large Language Models can self-improve, Google](https://arxiv.org/pdf/2210.11610.pdf)
 - [20 Dec 2022, Self-Instruct: Aligning Language Model with Self Generated Instructions](https://arxiv.org/pdf/2212.10560.pdf)
 - [27 Feb 2023, LLaMA: Open and Efficient Foundation Language Models, Facebook](https://arxiv.org/pdf/2302.13971.pdf)
+- [9 Mar 2023, On the Risks of Stealing the Decoding Algorithms of Language Models](https://arxiv.org/pdf/2303.04729.pdf)
 - [24 Mar 2023, GPT-4 Technical Report, OpenAI](https://arxiv.org/pdf/2303.08774.pdf)
 - [27 Mar 2023, Sparks of Artificial General Intelligence: Early experiments with GPT-4, Microsoft](https://arxiv.org/pdf/2303.08774.pdf)
 - [29 Mar 2023, TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs, Microsoft](https://arxiv.org/pdf/2303.16434.pdf)
