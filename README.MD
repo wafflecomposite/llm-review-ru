@@ -31,6 +31,10 @@
 ## *[alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)*
 - Форк llama.cpp, заточенный гонять конкретно Alpaca.
 
+# Open Assistant (LAION)
+## *[github.com/LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)*
+- Надо пощупать.
+
 # TODO: разобраться, что это и зачем
 - [github.com/hwchase17/langchain](https://github.com/hwchase17/langchain)
 
