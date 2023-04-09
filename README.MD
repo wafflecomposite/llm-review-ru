@@ -25,6 +25,12 @@
 ### *MemoryGPT*
 - Какой-то разогрев [происходит в твиттуре](https://twitter.com/rikvk01/status/1645062075285135360) прямо пока я это пишу, надо следить. Кода пока нет, ничего нет, есть Beta Tester Sign-up. Задача - ChatGPT с long-term memory. Тоже использует vector-based database, еще один повод поинтересоваться, как это работает, и почему это эффективно (ну или почему это скам.)
 
+# LLaMA и её друзья
+## *[llama.cpp](https://github.com/ggerganov/llama.cpp)*
+- Проект на плюсах, бодро гоняющий llama и её деривативы на CPU и RAM. Весьма кстати ввиду довольно жирных требований к памяти у моделей 33B и больше, консюмерские видюхи здесь не вывозят.
+## *[alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)*
+- Форк llama.cpp, заточенный гонять конкретно Alpaca.
+
 # TODO: разобраться, что это и зачем
 - [github.com/hwchase17/langchain](https://github.com/hwchase17/langchain)
 
