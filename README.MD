@@ -56,9 +56,11 @@
 - [27 Mar 2023, Sparks of Artificial General Intelligence: Early experiments with GPT-4, Microsoft](https://arxiv.org/pdf/2303.08774.pdf)
 - [29 Mar 2023, TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs, Microsoft](https://arxiv.org/pdf/2303.16434.pdf)
 - [30 Mar 2023, DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents, Curai](https://arxiv.org/pdf/2303.17071.pdf)
+- [30 Mar 2023, Self-Refine: Iterative Refinement With Self-Feedback, NVIDIA, Google](https://arxiv.org/pdf/2303.17651.pdf)
 - [30 Mar 2023, Language Models can Solve Computer Tasks](https://arxiv.org/pdf/2303.17491.pdf)
 - [2 Apr 2023, HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face, Microsoft](https://arxiv.org/pdf/2303.17580.pdf)
 - [3 Apr 2023, Neural Theory-of-Mind: On the Limits of Social Intelligence in Large LMs](https://arxiv.org/pdf/2210.13312.pdf)
+- [4 Apr 2023, Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/pdf/2304.01852.pdf)
 - [6 Apr 2023, Instruction Tuning with GPT-4, Microsoft](https://arxiv.org/pdf/2304.03277.pdf)
 - [6 Apr 2023, Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark](https://arxiv.org/pdf/2304.03279.pdf)
 
