@@ -47,6 +47,7 @@
 # Медиа
 - [24 Mar 2023, Reflecting on Reflexion](https://nanothoughts.substack.com/p/reflecting-on-reflexion) - пост с кучей ссылок, довольно дотошно рассказывающий о том, как рефлексия (значительно) улучшает результаты GPT-4 (в бенчмарке [HumanEval](https://paperswithcode.com/dataset/humaneval)), и как её имплементировать.
 - YT-канал [@TwoMinutePapers](https://www.youtube.com/@TwoMinutePapers) на фоне потока пейперов не мог не запрыгнуть на поезд и сейчас вываливает обзоры на бумажки по LLM(в основном GPT), можно покрутить на фоне ежели читать лень.
+- [7 Apr 2023, Understanding Vector Databases: Powering the World of AI](https://www.linkedin.com/pulse/understanding-vector-databases-powering-world-ai-chris-dougherty) - статья о векторных ДБ, пока не читал, но, возможно, ответит на некоторые вопросы.
 # Пэйперы
 - [25 Oct 2022, Large Language Models can self-improve, Google](https://arxiv.org/pdf/2210.11610.pdf)
 - [20 Dec 2022, Self-Instruct: Aligning Language Model with Self Generated Instructions](https://arxiv.org/pdf/2212.10560.pdf)
