@@ -31,6 +31,9 @@
 - Проект на плюсах, бодро гоняющий llama и её деривативы на CPU и RAM. Весьма кстати ввиду довольно жирных требований к памяти у моделей 33B и больше, консюмерские видюхи здесь не вывозят.
 ### *[alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)*
 - Форк llama.cpp, заточенный гонять конкретно Alpaca.
+### *[Vicuna](https://github.com/lm-sys/FastChat)*
+- Вроде как наиболее навороченная LLaMA-based моделька, но вдвое прожорливее по требованиям. [Читать здесь](https://vicuna.lmsys.org/), [пробовать онлайн тут](https://chat.lmsys.org/)
+- Майки в своей [бумажке](https://arxiv.org/pdf/2304.03277.pdf) по обучению ламы на выхлопе GPT-4 смогли уделать Альпаку-13B, а Викуню-13B не смогли, и в графиках у последней рисуют циферки, аналогичные GPT-3.5, что уважаемо, если правда.
 
 ## Open Assistant (LAION)
 ### *[github.com/LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)*
