@@ -1,38 +1,39 @@
-# GPT-4
-## *[github.com/Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)*
+# Модели
+## GPT-4
+### *[github.com/Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)*
 - Первый настолько выстреливший проект, пытающийся сделать GPT-4 автономной. Составляет план действий, делит задачу на подзадачи, создает отдельных агентов (инстансы GPT-4 со своим заточенным на конкретные задачи первичным промптом и контекстом).
 - Может использовать GPT3.5 (он же ChatGPT), но результаты объективно похуже.
 - Может использовать [pinecone.io](https://www.pinecone.io/) в качестве Long Term Memory.
 - Есть потуги в сторону [Recursive self improvement](https://github.com/Torantulino/Auto-GPT/issues/15)
 - Хотят гонять и [другие LLM кроме OpenAI](https://github.com/Torantulino/Auto-GPT/issues/25), интересно в контексте использования локальных моделей вроде LLaMa
 
-## *[github.com/pHaeusler/micro-agent](https://github.com/pHaeusler/micro-agent)*
+### *[github.com/pHaeusler/micro-agent](https://github.com/pHaeusler/micro-agent)*
 - Скромная по масштабам и потому довольно понятная реализация агента, способного писать код и рефлексировать.
 
-## *[github.com/rokstrnisa/Robo-GPT](https://github.com/rokstrnisa/Robo-GPT)*
+### *[github.com/rokstrnisa/Robo-GPT](https://github.com/rokstrnisa/Robo-GPT)*
 - Автономный GPT-4 runner, примерный аналог Auto-GPT с более читабельной документацией
 
-## *Нерелизнутое/наобещанное*
+### *Нерелизнутое/наобещанное*
 - Безымянный GPT-4 coding assistant, полностью управляемый голосом. [Довольно ломовейшее видеодемо](https://mobile.twitter.com/mckaywrigley/status/1644034309253394433)
 - **ChaosGPT**: Модифицированная версия Auto-GPT, нацеленная на хаотический деструкшн. Лол. [Видео.](https://www.youtube.com/watch?v=g7YJIpkk7KM) Пока ничерта интересного не сделала, кроме странички в твиттере, но потенциально может быть первым интересным кейсом Rogue AI.
 
-# GPT-3.5 / ChatGPT
-## *[github.com/microsoft/JARVIS](https://github.com/microsoft/JARVIS)*
-### [Онлайн-демо](https://huggingface.co/spaces/microsoft/HuggingGPT), хочет ключи [отсюда](https://platform.openai.com/account/api-keys) и [оттуда](https://huggingface.co/docs/hub/security-tokens).
+## GPT-3.5 / ChatGPT
+### *[github.com/microsoft/JARVIS](https://github.com/microsoft/JARVIS)*
+#### [Онлайн-демо](https://huggingface.co/spaces/microsoft/HuggingGPT), хочет ключи [отсюда](https://platform.openai.com/account/api-keys) и [оттуда](https://huggingface.co/docs/hub/security-tokens).
 - Он же HuggingGPT. Амбициозно названная "коллаборативная система", использующая ChatGPT в качестве контроллера, выполняющего таски, подбирая и используя наиболее подходящие LLM-модели с HuggingFace. 
 
-## *Нерелизнутое/наобещанное*
-### *MemoryGPT*
+### *Нерелизнутое/наобещанное*
+#### *MemoryGPT*
 - Какой-то разогрев [происходит в твиттуре](https://twitter.com/rikvk01/status/1645062075285135360) прямо пока я это пишу, надо следить. Кода пока нет, ничего нет, есть Beta Tester Sign-up. Задача - ChatGPT с long-term memory.
 
-# LLaMA и её друзья
-## *[llama.cpp](https://github.com/ggerganov/llama.cpp)*
+## LLaMA и её друзья
+### *[llama.cpp](https://github.com/ggerganov/llama.cpp)*
 - Проект на плюсах, бодро гоняющий llama и её деривативы на CPU и RAM. Весьма кстати ввиду довольно жирных требований к памяти у моделей 33B и больше, консюмерские видюхи здесь не вывозят.
-## *[alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)*
+### *[alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)*
 - Форк llama.cpp, заточенный гонять конкретно Alpaca.
 
-# Open Assistant (LAION)
-## *[github.com/LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)*
+## Open Assistant (LAION)
+### *[github.com/LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)*
 - Надо пощупать.
 
 # TODO: разобраться, что это и зачем
