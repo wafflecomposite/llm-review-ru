@@ -36,22 +36,22 @@
 ### *[github.com/LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)*
 - Надо пощупать.
 
-# TODO: разобраться, что это и зачем
+# Подключение LLM ко внешнему миру и сторонним доменам.
+
+## TODO: разобраться, что это и зачем
 - [github.com/hwchase17/langchain](https://github.com/hwchase17/langchain)
 
-# Векторные базы данных
+## Векторные базы данных
 Очень модно использовать в качестве долгосрочной памяти для LLM и способа таскать релевантную запросам информацию из неструктурированного бигдата-хлама. 
 Из ходового:
-## *[Weaviate](https://weaviate.io/)*
+### *[Weaviate](https://weaviate.io/)*
 - Опенсорс, Managed / [self-hosted](https://github.com/weaviate/weaviate), написана на Go
-## *[Qdrant](https://qdrant.tech/)*
+### *[Qdrant](https://qdrant.tech/)*
 - Опенсорс, Managed / [self-hosted](https://github.com/qdrant/qdrant), написана на Rust
-## *[Pinecone](https://www.pinecone.io/)*
+### *[Pinecone](https://www.pinecone.io/)*
 - Просто Managed, но почему-то в массе прилюбилась. Вроде как приятный бесплатный тариф.
-## *[Chroma](https://github.com/chroma-core/chroma)*
+### *[Chroma](https://github.com/chroma-core/chroma)*
 - Опенсорс, self-hosted, простая как палка. Занимает нишу SQLite из мира векторных баз, требует минимум знаний. В случае, если надо с чего-то начинать, чтоб вообще понять, о чем речь - проще всего начать с неё.
-
-# Подключение LLM ко внешнему миру и сторонним доменам.
 
 # Особенности психологии LLM
 - В отличие от людей, модель вообще не в курсе о своих способностях и ограничениях. Из чего выводы:
