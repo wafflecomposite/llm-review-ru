@@ -19,8 +19,8 @@
 
 ## GPT-3.5 / ChatGPT
 ### *[github.com/microsoft/JARVIS](https://github.com/microsoft/JARVIS)*
-#### [Онлайн-демо](https://huggingface.co/spaces/microsoft/HuggingGPT), хочет ключи [отсюда](https://platform.openai.com/account/api-keys) и [оттуда](https://huggingface.co/docs/hub/security-tokens).
 - Он же HuggingGPT. Амбициозно названная "коллаборативная система", использующая ChatGPT в качестве контроллера, выполняющего таски, подбирая и используя наиболее подходящие LLM-модели с HuggingFace. 
+- [Онлайн-демо](https://huggingface.co/spaces/microsoft/HuggingGPT), хочет ключи [отсюда](https://platform.openai.com/account/api-keys) и [оттуда](https://huggingface.co/docs/hub/security-tokens).
 
 ### *Нерелизнутое/наобещанное*
 #### *MemoryGPT*
