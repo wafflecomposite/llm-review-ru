@@ -54,7 +54,6 @@
 - [25 Oct 2022, Large Language Models can self-improve, Google](https://arxiv.org/pdf/2210.11610.pdf)
 - [20 Dec 2022, Self-Instruct: Aligning Language Model with Self Generated Instructions](https://arxiv.org/pdf/2212.10560.pdf)
 - [27 Feb 2023, LLaMA: Open and Efficient Foundation Language Models, Facebook](https://arxiv.org/pdf/2302.13971.pdf)
-- [9 Mar 2023, LLaMA: Open and Efficient Foundation Language Models, Facebook](https://arxiv.org/pdf/2302.13971.pdf)
 - [9 Mar 2023, Enactivism & Objectively Optimal Super-Intelligence](https://arxiv.org/pdf/2302.00843.pdf)
 - [22 Mar 2023, SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot](https://arxiv.org/pdf/2301.00774.pdf)
 - [24 Mar 2023, GPT-4 Technical Report, OpenAI](https://arxiv.org/pdf/2303.08774.pdf)
